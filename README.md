@@ -1,6 +1,6 @@
 # <h1 align="center"> Gerador de cores </h1>
 
-## A aplicação é capaz de gerar cores baseadas nos três padrões de cores mais utilizados, RGB, HSLA e CMYK utilizando contexto e react routes.
+## A aplicação é capaz de gerar cores baseadas nos três padrões de cores mais utilizados: RGB, HSLA e CMYK utilizando context e react routes.
 
 #### Como executar:
 ```bash
